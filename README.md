@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Thanasis
+## 👋 Hi, I’m Athanasios
 
 **Embedded & Application Engineer** | **PhD(c) in Electrical & Electronics Engineering**
 
